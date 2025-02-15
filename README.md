@@ -1,0 +1,1 @@
+GHPSTHunter is a powerful, multithreaded port scanning tool written in Python. It allows users to efficiently scan specified ports, retrieve service banners, and detect operating systems. The tool features colored output for better readability, a status display with rotating slashes, and a help menu for invalid options.
